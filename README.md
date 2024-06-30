@@ -1,5 +1,5 @@
 # Power-Bi
-Power BI is a business analytics tool by Microsoft that enables users to visualize and analyze data with greater speed, efficiency, and understanding. It connects users to a wide range of data through easy-to-use dashboards, interactive reports, and compelling visualizations that bring data to life.
+Power BI is a business analytics tool by Microsoft that enables users to visualize and analyze data with greater speed, efficiency, and understanding. It connects users to a wide range of data through easy-to-use dashboards, interactive reports, and compelling visualizations that bring data to life. Download it [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 ## My Training
 
