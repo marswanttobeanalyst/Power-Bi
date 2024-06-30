@@ -14,3 +14,6 @@ Power BI is a business analytics tool by Microsoft that enables users to visuali
 
 ## My Project
 I have done several projects involving many area of domain and I'll post this here later.
+
+1. [Sales, Quantity, and Gross Profits Performance Dashboard](https://github.com/marswanttobeanalyst/Sales-Performance-dashboard)
+![Recording 2024-06-30 132356 (1)](https://github.com/marswanttobeanalyst/Power-Bi/assets/141108687/4e321e2e-be69-49c3-bc6c-1d233c3eb0e7)
